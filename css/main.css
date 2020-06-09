@@ -45,6 +45,13 @@ body{
   .quote-container{
     text-align: center;
   }
-  
+
+  .title{
+    font-size: 200px!important;
+  }
+
+  #quote{
+    font-size: 22px;
+  }
 }
 
